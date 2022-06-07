@@ -1,0 +1,617 @@
+{
+  "Austria": {
+    "country": "Austria",
+    "countryCode": "at",
+    "members": [
+      {
+        "name": "Nico",
+        "country": "Austria",
+        "countryCode": "at"
+      },
+      {
+        "name": "Mariina",
+        "country": "Austria",
+        "countryCode": "at"
+      },
+      {
+        "name": "Steirerman",
+        "country": "Austria",
+        "countryCode": "at"
+      },
+      {
+        "name": "Shoffy",
+        "country": "Austria",
+        "countryCode": "at"
+      },
+      {
+        "name": "ParZival",
+        "country": "Austria",
+        "countryCode": "at"
+      }
+    ]
+  },
+  "Belgium - Rakuni": {
+    "country": "Belgium",
+    "countryCode": "be",
+    "members": [
+      {
+        "name": "Electro",
+        "country": "Belgium",
+        "countryCode": "be"
+      },
+      {
+        "name": "Skowza",
+        "country": "Belgium",
+        "countryCode": "be"
+      },
+      {
+        "name": "Vikentiy",
+        "country": "Belgium",
+        "countryCode": "be"
+      },
+      {
+        "name": "Calva",
+        "country": "Belgium",
+        "countryCode": "be"
+      },
+      {
+        "name": "xnick3lz",
+        "country": "Belgium",
+        "countryCode": "be"
+      }
+    ]
+  },
+  "Bireland": {
+    "country": "Ireland",
+    "countryCode": "ie",
+    "members": [
+      {
+        "name": "HotSwat",
+        "country": "Ireland",
+        "countryCode": "ie"
+      },
+      {
+        "name": "Babz",
+        "country": "Ireland",
+        "countryCode": "ie"
+      },
+      {
+        "name": "DankTM",
+        "country": "Ireland",
+        "countryCode": "ie"
+      },
+      {
+        "name": "BirdieTM",
+        "country": "Turkey",
+        "countryCode": "tr"
+      },
+      {
+        "name": "walshyie",
+        "country": "Ireland",
+        "countryCode": "ie"
+      }
+    ]
+  },
+  "Czech Republic": {
+    "country": "Czechia",
+    "countryCode": "cz",
+    "members": [
+      {
+        "name": "Kiro",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "Loudis",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "Mury",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "Elconn",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "Hanzy",
+        "country": "Czechia",
+        "countryCode": "cz"
+      }
+    ]
+  },
+  "Czech Republic 2": {
+    "country": "Czechia",
+    "countryCode": "cz",
+    "members": [
+      {
+        "name": "Nightlight",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "Laser",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "Vanity",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "rostak",
+        "country": "Czechia",
+        "countryCode": "cz"
+      },
+      {
+        "name": "crackous",
+        "country": "Czechia",
+        "countryCode": "cz"
+      }
+    ]
+  },
+  "England I - Boints": {
+    "country": "UnitedKingdom",
+    "countryCode": "gb",
+    "members": [
+      {
+        "name": "Idoless.",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "bozbez",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "DvinJo",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "EposUK",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "RealRoyboi",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      }
+    ]
+  },
+  "FFF": {
+    "country": "France",
+    "countryCode": "fr",
+    "members": [
+      {
+        "name": "Fontur",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Salty",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Nicsoby",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "NeziiumTM",
+        "country": "France",
+        "countryCode": "fr"
+      }
+    ]
+  },
+  "FRANCE - Bolet": {
+    "country": "France",
+    "countryCode": "fr",
+    "members": [
+      {
+        "name": "Iramis",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "MangeMoiLeBolet",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Astalet",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Aragon",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Gold",
+        "country": "France",
+        "countryCode": "fr"
+      }
+    ]
+  },
+  "France - PCS": {
+    "country": "France",
+    "countryCode": "fr",
+    "members": [
+      {
+        "name": "Shpluk",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Roquete",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Hisoris",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "Ebotith",
+        "country": "France",
+        "countryCode": "fr"
+      },
+      {
+        "name": "PinGenDam",
+        "country": "France",
+        "countryCode": "fr"
+      }
+    ]
+  },
+  "Indians": {
+    "country": "India",
+    "countryCode": "in",
+    "members": [
+      {
+        "name": "Kunal1398",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Iridium",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "NamyTM",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "SkorpidTM",
+        "country": "India",
+        "countryCode": "in"
+      },
+      {
+        "name": "Nealdasbabes",
+        "country": "India",
+        "countryCode": "in"
+      }
+    ]
+  },
+  "Poland": {
+    "country": "Poland",
+    "countryCode": "pl",
+    "members": [
+      {
+        "name": "Whitenpro",
+        "country": "Poland",
+        "countryCode": "pl"
+      },
+      {
+        "name": "Choroszcz",
+        "country": "Poland",
+        "countryCode": "pl"
+      },
+      {
+        "name": "Villam_TM",
+        "country": "Poland",
+        "countryCode": "pl"
+      },
+      {
+        "name": "Nalax_tm",
+        "country": "Poland",
+        "countryCode": "pl"
+      },
+      {
+        "name": "Hakkun.",
+        "country": "Poland",
+        "countryCode": "pl"
+      }
+    ]
+  },
+  "Portugal": {
+    "country": "Portugal",
+    "countryCode": "pt",
+    "members": [
+      {
+        "name": "Yekcosdo",
+        "country": "Portugal",
+        "countryCode": "pt"
+      },
+      {
+        "name": "Arieugon",
+        "country": "Portugal",
+        "countryCode": "pt"
+      },
+      {
+        "name": "Mawi",
+        "country": "Portugal",
+        "countryCode": "pt"
+      },
+      {
+        "name": "Pika",
+        "country": "Portugal",
+        "countryCode": "pt"
+      },
+      {
+        "name": "Pereira",
+        "country": "Portugal",
+        "countryCode": "pt"
+      }
+    ]
+  },
+  "Russia": {
+    "country": "Russia",
+    "countryCode": "ru",
+    "members": [
+      {
+        "name": "Raytem",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "Walten_TM",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "Neurovski",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "InkvyTM",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "Logon13",
+        "country": "Russia",
+        "countryCode": "ru"
+      }
+    ]
+  },
+  "Russia 2": {
+    "country": "Russia",
+    "countryCode": "ru",
+    "members": [
+      {
+        "name": "sightorld",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "iskopaem0e",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "AvondaleZPR",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "KarlMarxStadter",
+        "country": "Russia",
+        "countryCode": "ru"
+      },
+      {
+        "name": "pedrobutovo",
+        "country": "Russia",
+        "countryCode": "ru"
+      }
+    ]
+  },
+  "Slovenia": {
+    "country": "Slovenia",
+    "countryCode": "si",
+    "members": [
+      {
+        "name": "Fuber92",
+        "country": "Slovenia",
+        "countryCode": "si"
+      },
+      {
+        "name": "Jan123405",
+        "country": "Slovenia",
+        "countryCode": "si"
+      },
+      {
+        "name": "LUKABO-",
+        "country": "Slovenia",
+        "countryCode": "si"
+      },
+      {
+        "name": "dibe",
+        "country": "Slovenia",
+        "countryCode": "si"
+      },
+      {
+        "name": "Supingo",
+        "country": "Slovenia",
+        "countryCode": "si"
+      }
+    ]
+  },
+  "Spain": {
+    "country": "Spain",
+    "countryCode": "es",
+    "members": [
+      {
+        "name": "yeims",
+        "country": "Spain",
+        "countryCode": "es"
+      },
+      {
+        "name": "RandomWalk",
+        "country": "Spain",
+        "countryCode": "es"
+      },
+      {
+        "name": "Nauu",
+        "country": "Spain",
+        "countryCode": "es"
+      },
+      {
+        "name": "moratillap",
+        "country": "Spain",
+        "countryCode": "es"
+      },
+      {
+        "name": "elpred0",
+        "country": "Spain",
+        "countryCode": "es"
+      }
+    ]
+  },
+  "Switzerland": {
+    "country": "Switzerland",
+    "countryCode": "ch",
+    "members": [
+      {
+        "name": "Wardrov",
+        "country": "Switzerland",
+        "countryCode": "ch"
+      },
+      {
+        "name": "Jitsky",
+        "country": "Switzerland",
+        "countryCode": "ch"
+      },
+      {
+        "name": "oX.re",
+        "country": "Switzerland",
+        "countryCode": "ch"
+      },
+      {
+        "name": "Thomas_Jean",
+        "country": "Switzerland",
+        "countryCode": "ch"
+      },
+      {
+        "name": "forever.sl",
+        "country": "Poland",
+        "countryCode": "pl"
+      }
+    ]
+  },
+  "Team Italy": {
+    "country": "Italy",
+    "countryCode": "it",
+    "members": [
+      {
+        "name": "pickledave33",
+        "country": "Italy",
+        "countryCode": "it"
+      },
+      {
+        "name": "Kurisu-tina_",
+        "country": "Italy",
+        "countryCode": "it"
+      },
+      {
+        "name": "TTV.Ruffo00",
+        "country": "Italy",
+        "countryCode": "it"
+      },
+      {
+        "name": "SimonLuck31",
+        "country": "Italy",
+        "countryCode": "it"
+      },
+      {
+        "name": "J4K_TM",
+        "country": "Italy",
+        "countryCode": "it"
+      }
+    ]
+  },
+  "United States": {
+    "country": "UnitedStates",
+    "countryCode": "us",
+    "members": [
+      {
+        "name": "Parker",
+        "country": "UnitedStates",
+        "countryCode": "us"
+      },
+      {
+        "name": "mitch_rl",
+        "country": "UnitedStates",
+        "countryCode": "us"
+      },
+      {
+        "name": "Random",
+        "country": "UnitedStates",
+        "countryCode": "us"
+      },
+      {
+        "name": "MaybeKali",
+        "country": "UnitedStates",
+        "countryCode": "us"
+      },
+      {
+        "name": "nyigel",
+        "country": "UnitedStates",
+        "countryCode": "us"
+      }
+    ]
+  },
+  "Wales": {
+    "country": "UnitedKingdom",
+    "countryCode": "gb",
+    "members": [
+      {
+        "name": "Acrose",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "Hendo",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "lawnmo",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "ComradeLouis",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      },
+      {
+        "name": "vKilljoyy",
+        "country": "UnitedKingdom",
+        "countryCode": "gb"
+      }
+    ]
+  }
+}
