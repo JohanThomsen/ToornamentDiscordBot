@@ -34,7 +34,8 @@ client.on('message', async msg => {
       }
     } else {
       msg.author.send('Input error, your message should contain !stop <tournament ID>. Your message was: ' + msg.content)
-    }     
+    }
+    msg.delete()     
   }
   // Check if the message starts with '!hello' and respond with 'world!' if it does.
   if(msg.content.startsWith("!start")){
@@ -42,7 +43,7 @@ client.on('message', async msg => {
     if (inputs.length == 2) {
       let tournamentId = inputs[1]
       if (INTERVALID == 0) {
-        INTERVALID = setInterval(UpdateCurrentlyRegisteredChannel, 300000)
+        INTERVALID = setInterval(function() { UpdateCurrentlyRegisteredChannel(channelID, tournamentId); }, 300000)
         UpdateCurrentlyRegisteredChannel(channelID, tournamentId)
         console.log('Started updating')
         msg.author.send('Updating every 5 minutes, in channel: ' + channelID + "With tournament ID: " + tournamentId)
@@ -51,9 +52,9 @@ client.on('message', async msg => {
       }
     } else {
       msg.author.send('Input error, your message should contain !start <tournament ID>. Your message was: ' + msg.content)
-    }   
-  }  
-  msg.delete()  
+    }
+    msg.delete()  
+  }    
 })
 
 // Login to Discord with your client's token
