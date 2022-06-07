@@ -1,8 +1,7 @@
 // Import discord.js and create the client
+require('dotenv').config();
 const Discord = require('discord.js')
 const client = new Discord.Client();
-const TOURNAMENT_ID = '5733513436764454912'
-const DISCORD_TOKEN = ''
 const fs = require('fs');
 const { clearInterval } = require('timers');
 const {getTournamentParticipants} = require('./scraper.js')
@@ -58,7 +57,7 @@ client.on('message', async msg => {
 })
 
 // Login to Discord with your client's token
-client.login(DISCORD_TOKEN);
+client.login(process.env.DISCORD_TOKEN);
 
 async function UpdateCurrentlyRegisteredChannel(channelID, tournamentId) {
   console.log('Checking for updates')
